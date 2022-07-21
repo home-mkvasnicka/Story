@@ -1,0 +1,1 @@
+Testovací text do první kapitoly Git.
