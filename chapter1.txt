@@ -1,1 +1,1 @@
-Testovací text do první kapitoly Git.
+Testovací text do první kapitoly Git. - cizinec branch
